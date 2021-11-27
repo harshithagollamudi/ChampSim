@@ -43,7 +43,7 @@ $./script.sh
   
 <h2>Project Presentation links </h2>
 <p>Slides - https://docs.google.com/presentation/d/1xOZ-s_rv65hVWSe-mU0tfO9iLgxrGOcAu_DYiukTYI0/edit?usp=sharing</p>
-<p>Video - </p>
+<p>Video - https://youtu.be/W6gcB_8WpBI </p>
 
 <h2>Contributions </h2>
 <p>Ginjala Varshini - Explored SHiP++, Worked on video presentation</p>
